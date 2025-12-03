@@ -17,5 +17,5 @@ variable "rule_priority" {
 }
 
 variable "domain_name" {
-    default = eliyas.fun
+    default = "eliyas.fun"
 }
