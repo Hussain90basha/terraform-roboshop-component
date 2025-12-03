@@ -9,7 +9,7 @@ variable "environment" {
 }
 
 variable "component" {
-  
+    default = ""
 }
 
 variable "rule_priority" {
